@@ -1,0 +1,2 @@
+Hi creating a file from gitbash
+adding 2nd line

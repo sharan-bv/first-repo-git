@@ -1,0 +1,4 @@
+Docker important commands are
+docker ps
+docker images
+docker build -t <imagename>
